@@ -1,15 +1,4 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import App from './App';
-
-const rootElement = document.getElementById('root');
-if (!rootElement) {
-  throw new Error("Could not find root element to mount to");
-}
-
-const root = ReactDOM.createRoot(rootElement);
-root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
-);
+// Este arquivo foi esvaziado intencionalmente.
+// Como solicitou que o portfólio funcione sem build no GitHub Pages (apenas HTML, CSS e JS),
+// o projeto agora roda inteiramente no arquivo index.html.
+console.log("Projeto convertido para HTML puro. Pode ignorar este arquivo.");

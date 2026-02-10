@@ -1,0 +1,5 @@
+{
+  "name": "Portfólio de Dados",
+  "description": "Um site de portfólio limpo e responsivo para exibir projetos e relatórios do PowerBI, construído com React e Tailwind CSS.",
+  "requestFramePermissions": []
+}
